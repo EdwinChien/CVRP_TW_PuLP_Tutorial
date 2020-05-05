@@ -65,7 +65,7 @@ Shortest distance = 10483.0
 ```
 ### Comparision Table.
      VRP Problem type       |     Capacity     | Variable number | Duration | Optimail route distance
-----------------------------|:----------------:|----------------:|---------:|------------------------
+----------------------------|------------------|-----------------|----------|------------------------
 CVRP (Static capacity)      |                18|      56+Dummy(8)|   427 ms |           10987.0 miles
 CVRP (Dynamic capacity)     |14, 18, 18, 24, 36|    280+Dummy(40)|   15.5 s |           10483.0 miles
 CVRP_TW (Dynamic capacity)  |14, 18, 18, 24, 36|  280+Dummy(40+8)|   2.62 s |           10483.0 miles 

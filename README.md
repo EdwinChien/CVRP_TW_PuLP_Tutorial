@@ -73,6 +73,6 @@ CVRP (Dynamic capacity)     |14, 18, 18, 24, 36|    280+Dummy(40)|   15.5 s |   
 CVRP_TW (Dynamic capacity)  |14, 18, 18, 24, 36|  280+Dummy(40+8)|   2.62 s |           10483.0 miles 
 ---
 ### Solution Visualization : Final solution route map.
-![CVRP_TW](https://github.com/EdwinChien/CVRP_TW_PuLP_Tutorial/blob/master/CVRP_TW_route.png)
+![CVRP_TW](https://i.imgur.com/DZcNDr5.png)
 
 ---

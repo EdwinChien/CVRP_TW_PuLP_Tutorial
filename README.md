@@ -16,8 +16,6 @@ Hint 2: Each time you use PuLP in a Google Colaboratory ipython notebook, make s
 
 Hint 3: This code only contains the multi-vehicle version (i.e., dynamic capacity version), if you are interested in the static capacity version, please contact me.
 ```
-## Note 3. Mathematical formula of Capacitied Vehicle Routing Problem.
-![Mathematical Formula](https://imgur.com/zZdtI5C.jpg)
 ## Appendix: Solved results and duration list.
 ### Config 1. Static vehicle capacity (default value = 18).
 ```

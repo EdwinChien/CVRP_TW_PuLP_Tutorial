@@ -23,7 +23,7 @@ CVRP ( Max capacity = 18 )
 
 Duration = 427 ms
 
-Shortest distance = 10987.0
+Minimize cost = 10987.0
 
 Vehicle — 0 : Chicago (0) -> Hous (7) -> KC (7) -> Chicago (0) →→→ Total demand = 14 units.
 
@@ -39,7 +39,7 @@ CVRP ( Multi-Vehicle capacity )
 
 Duration = 15.5 s
 
-Shortest distance = 10483.0
+Minimize cost = 10483.0
 
 ● Vehicle — 0 (Total capacity=14) : Chicago (0) -> Hous (7) -> KC (7) -> Chicago (0) →→→ Total demand = 14 units.
 
@@ -55,7 +55,7 @@ CVRP_TW ( Multi-Vehicle capacity )
 
 Duration = 2.62 s
 
-Shortest distance = 10483.0
+Minimize cost = 10483.0
 
 ● Vehicle — 0 (Total capacity=14) : Chicago (0) -> Hous (7) -> KC (7) -> Chicago (0) →→→ Total demand = 14 units.
 

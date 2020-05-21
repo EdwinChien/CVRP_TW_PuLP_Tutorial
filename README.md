@@ -64,13 +64,13 @@ Shortest distance = 10483.0
 ● Vehicle — 2 (Total capacity=18) : Chicago (0) -> LA_2 (4) -> LA (14) -> Chicago (0) →→→ Total demand = 18 units.
 ```
 ### Comparision Table.
-VRP Problem type            |Capacity          |Variable number  |Duration  |Optimal distance
+VRP Problem type            |Capacity          |Variable number  |Duration  |Optimal route cost
 ----------------------------|------------------|-----------------|----------|------------------------
 CVRP (Static capacity)      |                18|      56+Dummy(8)|   427 ms |           10987.0 units
 CVRP (Dynamic capacity)     |14, 18, 18, 24, 36|    280+Dummy(40)|   15.5 s |           10483.0 units
 CVRP_TW (Dynamic capacity)  |14, 18, 18, 24, 36|  280+Dummy(40+8)|   2.62 s |           10483.0 units 
 ---
-### Solution Visualization : Final solution route map.
+### Solution Visualization : Final solution map.
 ![CVRP_TW](https://i.imgur.com/DZcNDr5.png)
 
 ---

@@ -1,6 +1,6 @@
 # **Hello World!!**
-## © Chun Lin, Chien (2020)
-## **Note 1. This tutorial is written by Chun Lin, Chien on 2020-05-02 with python PuLP linear programming module for Vehicle Routing Problem with Capacity limitation and Time window.**
+## © Chun-Lin Chien (2020)
+## **Note 1. This tutorial is written by Chun-Lin Chien on 2020-05-02 with python PuLP linear programming module for Vehicle Routing Problem with Capacity limitation and Time window.**
 ---
 ```
 P.S : If you use this CVRP_TW python code or refer the result in your research, please cite this tutorial.
